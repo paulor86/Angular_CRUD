@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Samsumg",
+      "price": 3000
+    },
+    {
+      "id": 2,
+      "name": "Macbook ",
+      "price": 5000
+    },
+    {
+      "id": 3,
+      "name": "Laptop Dell",
+      "price": 4000
+    },
+    {
+      "id": 4,
+      "name": "Laptop Lenovo i7 8Gb",
+      "price": "4500"
+    }
+  ]
+}
